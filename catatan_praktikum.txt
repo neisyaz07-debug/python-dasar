@@ -1,0 +1,2 @@
+Baris 1: Praktikum Python Dasar Santrikoding
+Baris 2: Materi File Handling berhasil dijalankan.
